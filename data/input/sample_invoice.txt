@@ -1,0 +1,28 @@
+INVOICE #12345
+
+Date: August 27, 2025
+Due Date: September 15, 2025
+
+Bill To:
+Acme Corporation
+123 Business St
+New York, NY 10001
+
+From:
+Tech Services LLC
+456 Provider Ave
+Boston, MA 02101
+
+Description                 Quantity    Unit Price    Total
+Software Development        40 hours    $150.00       $6,000.00
+Technical Consulting        10 hours    $200.00       $2,000.00
+Project Management          5 hours     $175.00       $875.00
+
+                                       Subtotal:      $8,875.00
+                                       Tax (8.5%):    $754.38
+                                       Total:         $9,629.38
+
+Payment Terms: Net 30 days
+Payment Method: Check or Bank Transfer
+
+Thank you for your business!

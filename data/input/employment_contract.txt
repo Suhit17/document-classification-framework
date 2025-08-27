@@ -1,0 +1,34 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement is entered into on August 27, 2025, between:
+
+EMPLOYER: TechCorp Inc.
+123 Corporate Drive
+San Francisco, CA 94105
+
+EMPLOYEE: John Smith
+456 Residential Lane  
+San Francisco, CA 94110
+
+POSITION: Senior Software Engineer
+
+TERMS AND CONDITIONS:
+
+1. Employment Period: This agreement shall commence on September 1, 2025, and continue until terminated in accordance with the terms herein.
+
+2. Compensation: Employee shall receive an annual salary of $120,000, payable bi-weekly.
+
+3. Benefits: Employee shall be eligible for health insurance, dental coverage, 401(k) plan, and 20 days paid vacation annually.
+
+4. Duties: Employee agrees to perform duties related to software development, code review, and technical leadership as assigned.
+
+5. Confidentiality: Employee agrees to maintain confidentiality of all proprietary company information.
+
+6. Termination: Either party may terminate this agreement with 30 days written notice.
+
+By signing below, both parties agree to the terms and conditions set forth in this agreement.
+
+________________________                 ________________________
+Employer Signature                        Employee Signature
+
+Date: _______________                     Date: _______________
